@@ -1,0 +1,27 @@
+body{
+
+   background-color: rgb(247, 247, 247)
+}
+.container{
+    padding: 10px;
+    text-decoration: none;   /* removes underline */
+    color: #0073e6;          /* link color */
+    font-weight: bold;
+    display: block;          /* each link on a new line */
+    margin: 5px 0;
+  
+}
+
+h1 {
+    color: rgb(6, 6, 39);
+    font-family: verdana;
+    font-size: 300%;
+    text-align: center;
+
+}
+
+img{
+    width: 500px;
+    height:500px;
+}
+
